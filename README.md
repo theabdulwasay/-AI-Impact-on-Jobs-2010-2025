@@ -1,3 +1,4 @@
+<img width="834" height="843" alt="Screenshot 2026-02-12 000911" src="https://github.com/user-attachments/assets/37073159-13ad-48dd-a48f-46394ae1f6cd" />
 <img width="1784" height="881" alt="viz1_ai_adoption_trend" src="https://github.com/user-attachments/assets/2d9c3c1a-b371-414d-a4d5-6e0f721889c2" />
 # 🤖 AI Impact on Jobs 2010–2025
 
