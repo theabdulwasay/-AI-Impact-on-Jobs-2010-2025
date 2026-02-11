@@ -1,10 +1,16 @@
+<img width="1784" height="881" alt="viz1_ai_adoption_trend" src="https://github.com/user-attachments/assets/2d9c3c1a-b371-414d-a4d5-6e0f721889c2" />
 # 🤖 AI Impact on Jobs 2010–2025
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge)<img width="1147" height="883" alt="viz6_correlation_heatmap" src="https://github.com/user-attachments/assets/ae846321-dab3-49ba-8143-cbeb69add172" />
+<img width="1484" height="881" alt="viz5_displacement_risk_stage" src="https://github.com/user-attachments/assets/df84d5b9-6401-4c2e-b86c-a23304417741" />
+<img width="1634" height="882" alt="viz4_top_ai_keywords" src="https://github.com/user-attachments/assets/29c3cc63-8e5f-47d2-88a1-d1f421b18136" />
+<img width="1784" height="881" alt="viz3_salary_ai_vs_nonai" src="https://github.com/user-attachments/assets/fe9c92c2-a1e2-4e34-9ae6-f436221720ab" />
+<img width="1635" height="1031" alt="viz2_automation_risk_industry" src="https://github.com/user-attachments/assets/ec0ace87-98c5-472e-b8d0-b11755f740f6" />
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
